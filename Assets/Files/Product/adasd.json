@@ -1,0 +1,10 @@
+{"visable":true,"uniqueProd_id":20819220,"name":"Жидкий навоз КРС","coffSV":0.05000000074505806,"coffWater":0.0,"coffMetana":0.6499999761581421,"valueGas":0.30000001192092898}
+{"visable":true,"uniqueProd_id":20819221,"name":"Жидкий свинной навоз","coffSV":0.10000000149011612,"coffWater":0.0,"coffMetana":0.6499999761581421,"valueGas":0.4000000059604645}
+{"visable":true,"uniqueProd_id":20819242,"name":"Силос","coffSV":0.20000000298023225,"coffWater":0.0,"coffMetana":0.8500000238418579,"valueGas":0.25}
+{"visable":true,"uniqueProd_id":20819243,"name":"Сыроватка","coffSV":0.019999999552965165,"coffWater":0.0,"coffMetana":0.800000011920929,"valueGas":0.6200000047683716}
+{"visable":true,"uniqueProd_id":20819244,"name":"Отходы зерновые(злаковые)","coffSV":0.0,"coffWater":0.0,"coffMetana":0.0,"valueGas":0.0}
+{"visable":false,"uniqueProd_id":20819245,"name":"Жидкий навоз КРС(из контейнера)","coffSV":0.05000000074505806,"coffWater":0.0,"coffMetana":0.6499999761581421,"valueGas":0.30000001192092898}
+{"visable":false,"uniqueProd_id":20819246,"name":"Жидкий свинной навоз(из контейнера)","coffSV":0.10000000149011612,"coffWater":0.0,"coffMetana":0.6499999761581421,"valueGas":0.4000000059604645}
+{"visable":false,"uniqueProd_id":20819247,"name":"Силос(из контейнера)","coffSV":0.20000000298023225,"coffWater":0.0,"coffMetana":0.8500000238418579,"valueGas":0.25}
+{"visable":false,"uniqueProd_id":20819248,"name":"Сыроватка(из контейнера)","coffSV":0.019999999552965165,"coffWater":0.0,"coffMetana":0.800000011920929,"valueGas":0.6200000047683716}
+{"visable":false,"uniqueProd_id":20819249,"name":"Отходы зерновые(злаковые)(из контейнера)","coffSV":0.0,"coffWater":0.0,"coffMetana":0.0,"valueGas":0.0}
